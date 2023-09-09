@@ -1,0 +1,11 @@
+ git commit -m "initial commit"
+
+ git config --global user.name
+
+ git init
+
+ git log (timeline), add ., status
+
+
+
+ loll
